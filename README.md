@@ -11,9 +11,10 @@ JATE (text-editor) create notes or code snippets **with** or **without an intern
 This is a Full Stack single-page application that meets PWA criteria and runs in the browser.  Features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. 
 <p align="center">
 <img width="941" alt="jate screensshot installed" src="https://user-images.githubusercontent.com/97717660/167977214-4f5e1918-43ac-464d-b3ec-e47c76f593bd.png">
+  
+![jate4](https://user-images.githubusercontent.com/97717660/167991927-eb009e1d-9713-420f-a8af-3c66c57a71f5.gif)
 
-![JATE (1)](https://user-images.githubusercontent.com/97717660/167977804-486d1ccd-64c9-4a42-afbc-ddabe47784a8.gif)
-  </p>
+</p>
 
   
   
