@@ -13,6 +13,9 @@ This is a Full Stack single-page application that meets PWA criteria and runs in
 <img width="941" alt="jate screensshot installed" src="https://user-images.githubusercontent.com/97717660/167977214-4f5e1918-43ac-464d-b3ec-e47c76f593bd.png">
   
 ![jate4](https://user-images.githubusercontent.com/97717660/167991927-eb009e1d-9713-420f-a8af-3c66c57a71f5.gif)
+ 
+ ![jate demo2](https://user-images.githubusercontent.com/97717660/167992181-4f6ae5c6-5a45-4dd3-b1a5-49a8738d0022.gif)
+
 
 </p>
 
