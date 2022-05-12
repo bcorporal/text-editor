@@ -8,7 +8,7 @@
   
 JATE (text-editor) create notes or code snippets **with** or **without an internet connection** so that you can reliably retrieve them for later use.
 
-This is a Full Stack single-page application that meets PWA criteria and runs in the browser.  Features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. 
+This is a Full Stack single-page application that meets PWA criteria and runs in the browser.  Features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. There are 2 ways to install. Either click **install** on the top left of the app or via browser in the address bar to the right. See demo below.
 <p align="center">
 <img width="941" alt="jate screensshot installed" src="https://user-images.githubusercontent.com/97717660/167977214-4f5e1918-43ac-464d-b3ec-e47c76f593bd.png">
   
