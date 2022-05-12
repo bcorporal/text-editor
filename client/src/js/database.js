@@ -13,7 +13,7 @@ const initdb = async () =>
   });
 
 // TODO: Add logic to a method that accepts some content and adds it to the database
-export const putDb = async (content) => console.log('Post to the database');
+export const putDb = async (content) => { console.log('Post to the database');
 
   // Create a connection to the database database and version we want to use.
   const textDb = await openDB('jate', 1);
@@ -29,7 +29,8 @@ export const putDb = async (content) => console.log('Post to the database');
 
   // Get confirmation of the request.
   const result = await request;
-  console.log('🚀 - data saved to the database', result);
+  console.log(`🚀 - data saved to the database: ${result}`)
+}
 
 
 
